@@ -1,0 +1,8 @@
+{
+  "name": "Discourse Custom Reply Labels",
+  "component": true,
+  "license_url": "https://github.com/Lillinator/discourse-custom-reply-buttons/blob/main/LICENSE",
+  "about_url": "https://github.com/Lillinator/discourse-custom-reply-buttons/blob/main/README.md",
+  "authors": "Lilly",
+  "theme_version": "1.0"
+}
