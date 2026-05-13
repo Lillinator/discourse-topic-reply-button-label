@@ -1,5 +1,9 @@
 # Discourse Topic Reply Button Label
-Adds translatable text to the topic reply button label to distinguish it from the post reply button, making UX more clear for users.
+
+### 👩‍💻 Overview
+
+The core topic reply and post reply buttons use the same string and it can be a bit unclear to inexperienced Discourse users what the different functionalities are.  
+This lightweight theme component appends translatable text to the topic reply button label to distinguish it from the post reply button, making UX more clear for users.
 
 Before:
 
