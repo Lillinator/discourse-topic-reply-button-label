@@ -1,0 +1,9 @@
+#topic-footer-buttons {
+  .topic-footer-main-buttons {
+    button.btn-primary.create {
+      span.d-button-label::after {
+        content: " " var(--topic-reply-append);
+      }
+    }
+  }
+}
