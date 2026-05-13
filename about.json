@@ -1,8 +1,8 @@
 {
   "name": "Discourse Topic Reply Button Label",
   "component": true,
-  "license_url": "https://github.com/Lillinator/discourse-custom-reply-buttons/blob/main/LICENSE",
-  "about_url": "https://github.com/Lillinator/discourse-custom-reply-buttons/blob/main/README.md",
+  "license_url": "https://github.com/Lillinator/discourse-topic-reply-button-label/blob/main/LICENSE",
+  "about_url": "https://github.com/Lillinator/discourse-topic-reply-button-label/blob/main/README.md",
   "authors": "Lilly",
   "theme_version": "1.0"
 }
