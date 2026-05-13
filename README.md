@@ -24,3 +24,5 @@ Translation to French:
 Translation to Russian:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/93ba002d-f263-4bd6-93f3-3e84551bcee2" />
+
+For more information, go to https://meta.discourse.org/t/discourse-topic-reply-button-label/402911
