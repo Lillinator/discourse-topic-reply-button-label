@@ -15,9 +15,11 @@ After:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/aed1d45c-32b6-4bde-8f48-212a20e53efc" />
 
+
 Translation to French:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/4258b944-8e33-4e4c-a58e-24f6e312fbc7" />
+
 
 Translation to Russian:
 
