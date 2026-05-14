@@ -1,6 +1,6 @@
 # Discourse Topic Reply Button Labels
 
-### :woman_technologist:t2: Overview
+### :woman_technologist: Overview
 The core Discourse topic and post reply buttons use the same string and it can be a bit unclear to inexperienced users what the different functionalities are:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/923f3772-7ad0-471a-a9cf-8b6d7b64e619" />
