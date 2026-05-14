@@ -15,37 +15,37 @@ To only use the Topic reply button string, simply delete any entry in the `post_
 
 ### :camera_flash: Screenshots
 
-English
+English:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/aed1d45c-32b6-4bde-8f48-212a20e53efc" />
 
-[details="French"]
+French:
+
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/4258b944-8e33-4e4c-a58e-24f6e312fbc7" />
-[/details]
 
-[details="Chinese (simplified)"]
+
+Chinese (simplified):
+
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/076ceaf5-1362-4091-b565-a95306c422b5" />
-[/details]
 
-[details="Brazilian Portuguese"]
+Brazilian Portuguese:
+
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/5fb656ce-d82b-49a4-bffb-bb91a56b8e60" />
-[/details]
 
-[details="Russian"]
+Russian:
+
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/590fef62-1c67-428a-95f6-6d50804e6d45" />
-[/details]
 
-[details="only Topic reply button string"]
+Only Topic reply button string:
+
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/b2f86bab-8a4f-443b-be0f-1242ad39e112" />
-[/details]
+
 
 ***
 
 ### :gear: Settings
 
-[details="Theme component setting strings"]
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/e297b25c-5564-4c8b-a5fa-dc74b22c12fc" />
-[/details]
 
 ***
 
