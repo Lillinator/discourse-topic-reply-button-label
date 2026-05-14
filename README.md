@@ -8,7 +8,7 @@ This lightweight theme component appends translatable text to the topic and repl
 
 Before:
 
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/36becbbb-e92c-483a-bd13-65694330361e" />
+<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/923f3772-7ad0-471a-a9cf-8b6d7b64e619" />
 
 
 After:
