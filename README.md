@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Overview
 
-The core topic reply and post reply buttons use the same string and it can be a bit unclear to inexperienced Discourse users what the different functionalities are.  
+The core topic reply and post reply buttons in Discourse use the same string and it can be a bit unclear to inexperienced users what the different functionalities are.  
 
 This lightweight theme component appends translatable text to the topic and reply button labels to distinguish them from each other, making UX more clear for users. This is only applicable to desktop view - mobile view buttons are unaffected.
 
