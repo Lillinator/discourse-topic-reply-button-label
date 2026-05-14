@@ -1,9 +1,19 @@
+// ** Topic Footer Button **
 #topic-footer-buttons {
   .topic-footer-main-buttons {
     button.btn-primary.create {
       span.d-button-label::after {
         content: " " var(--topic-reply-append);
       }
+    }
+  }
+}
+
+// ** Post Menu Button **
+.post-controls {
+  button.reply {
+    span.d-button-label::after {
+      content: " " var(--post-reply-append);
     }
   }
 }
