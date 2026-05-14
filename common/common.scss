@@ -7,3 +7,8 @@
     }
   }
 }
+.btn.btn-icon-text.post-action-menu__reply.reply.create {
+  span.d-button-label::after {
+    content: " " var(--post-reply-append);
+  }
+}
