@@ -23,15 +23,6 @@ French:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/4258b944-8e33-4e4c-a58e-24f6e312fbc7" />
 
-
-Chinese (simplified):
-
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/076ceaf5-1362-4091-b565-a95306c422b5" />
-
-Brazilian Portuguese:
-
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/5fb656ce-d82b-49a4-bffb-bb91a56b8e60" />
-
 Russian:
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/590fef62-1c67-428a-95f6-6d50804e6d45" />
