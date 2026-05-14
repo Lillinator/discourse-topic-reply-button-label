@@ -1,3 +1,4 @@
+// ** Topic Footer Button **
 #topic-footer-buttons {
   .topic-footer-main-buttons {
     button.btn-primary.create {
@@ -7,8 +8,12 @@
     }
   }
 }
-.btn.btn-icon-text.post-action-menu__reply.reply.create {
-  span.d-button-label::after {
-    content: " " var(--post-reply-append);
+
+// ** Post Menu Button **
+.post-controls {
+  button.reply {
+    span.d-button-label::after {
+      content: " " var(--post-reply-append);
+    }
   }
 }
