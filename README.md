@@ -22,7 +22,7 @@ To only use the Topic reply button string, simply delete any entry in the post_r
 English (desktop and mobile):
 
 <img width="40%" height="40%" alt="desktop" src="https://github.com/user-attachments/assets/aed1d45c-32b6-4bde-8f48-212a20e53efc" />
-
+<br/>
 <img width="40%" height="40%" alt="mobile" src="https://github.com/user-attachments/assets/5f8c3ba3-3443-4fa2-aa09-3648a22832da" />
 
 
