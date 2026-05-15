@@ -49,7 +49,7 @@
       .btn, 
       .topic-notifications-button .btn, 
       .pinned-button .btn {
-        font-size: inherit;
+        font-size: var(--font-down-1-rem);
       }
       
     }
