@@ -42,7 +42,9 @@
       }
     }
   }
-  #topic-footer-buttons .topic-footer-main-buttons {
+  #topic-footer-buttons .topic-footer-main-buttons .btn, 
+  #topic-footer-buttons .topic-footer-main-buttons .topic-notifications-button .btn, 
+  #topic-footer-buttons .topic-footer-main-buttons .pinned-button .btn {
     font-size: inherit;
   }
 }
