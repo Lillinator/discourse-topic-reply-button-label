@@ -1,3 +1,5 @@
+@use "lib/viewport";
+
 // ** Topic Footer Button **
 #topic-footer-buttons {
   .topic-footer-main-buttons {
@@ -23,6 +25,21 @@
   .nested-view__floating-reply {
     span.d-button-label::after {
       content: " " var(--topic-reply-append);
+    }
+  }
+}
+
+// ** Mobile View Topic Button ***
+
+@if $show_mobile_topic_reply_label == "true" {
+  @include viewport.until(md) {
+    html:not(.anon) #topic-footer-buttons .topic-footer-main-buttons {
+      .d-button-label {
+        display: block;
+      }
+      .d-icon {
+        margin-right: .45em;
+      }
     }
   }
 }
