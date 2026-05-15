@@ -1,0 +1,5 @@
+show_mobile_topic_reply_label:
+  type: bool
+  default: false
+  description:
+    en: "Show label on topic reply button in mobile view"
