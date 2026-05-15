@@ -31,20 +31,6 @@
 
 // ** Mobile View Topic Button ***
 
-// ** Reveal Topic Reply Text on Mobile **
-.mobile-view {
-  #topic-footer-buttons {
-    .topic-footer-main-buttons {
-      button.btn-primary.create {
-        span.d-button-label {
-          display: inline-block; // Overrides Discourse's mobile 'display: none'
-        }
-      }
-    }
-  }
-}
-
-
 @if $show_mobile_topic_reply_label == "true" {
   @include viewport.until(md) {
     #topic-footer-buttons {
@@ -60,9 +46,4 @@
       }
     }
   }  
-  #topic-footer-buttons .topic-footer-main-buttons .btn, 
-  #topic-footer-buttons .topic-footer-main-buttons .topic-notifications-button .btn, 
-  #topic-footer-buttons .topic-footer-main-buttons .pinned-button .btn {
-    font-size: inherit;
-  }
 }
