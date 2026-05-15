@@ -1,4 +1,4 @@
-# Discourse Topic Reply Button Labels
+# Discourse Reply Button Labels
 
 ### :woman_technologist: Overview
 The core Discourse topic and post reply buttons use the same string and it can be a bit unclear to inexperienced users what the different functionalities are:
@@ -34,7 +34,7 @@ Only Topic reply button string:
 
 ***
 
-### :gear: Settings
+### :gear: Settings & Text Strings
 
 <img width="40%" height="40%" alt="settings" src="https://github.com/user-attachments/assets/eb8283f1-e904-4e63-8e04-62199e3b2379" />
 
