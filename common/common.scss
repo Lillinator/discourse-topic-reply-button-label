@@ -17,3 +17,12 @@
     }
   }
 }
+
+// ** Nested Topic Button **
+.nested-view__floating-actions {
+  .nested-view__floating-reply {
+    span.d-button-label::after {
+      content: " " var(--topic-reply-append);
+    }
+  }
+}
