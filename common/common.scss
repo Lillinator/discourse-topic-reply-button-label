@@ -31,8 +31,11 @@
 
 // ** Mobile View Topic Button ***
 
+
+
 @if $show_mobile_topic_reply_label == "true" {
   @include viewport.until(md) {
+    .btn.btn-icon-text.btn-primary.create.topic-footer-button {
     html:not(.anon) #topic-footer-buttons .topic-footer-main-buttons {
       .d-button-label {
         display: block;
@@ -41,10 +44,11 @@
         margin-right: .45em;
       }
     }
-  }
+  }  
   #topic-footer-buttons .topic-footer-main-buttons .btn, 
   #topic-footer-buttons .topic-footer-main-buttons .topic-notifications-button .btn, 
   #topic-footer-buttons .topic-footer-main-buttons .pinned-button .btn {
     font-size: inherit;
   }
+}
 }
