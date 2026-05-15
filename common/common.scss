@@ -31,24 +31,27 @@
 
 // ** Mobile View Topic Button ***
 
+// ** Mobile View Topic Button ***
+
 @if $show_mobile_topic_reply_label == "true" {
   @include viewport.until(md) {
-    #topic-footer-buttons {
-      .topic-footer-main-buttons {
-        button.btn-primary.create {
-          span.d-button-label {
-           display: inline-block; // Overrides Discourse's mobile 'display: none'
-          }
-          .d-icon {
-            margin-right: .45em;
-          }
+    #topic-footer-buttons .topic-footer-main-buttons {
+      
+      button.btn-primary.create {
+        span.d-button-label {
+          display: inline-block;
+        }
+        .d-icon {
+          margin-right: .45em;
         }
       }
-    }
-    #topic-footer-buttons .topic-footer-main-buttons .btn, 
-    #topic-footer-buttons .topic-footer-main-buttons .topic-notifications-button .btn, 
-    #topic-footer-buttons .topic-footer-main-buttons .pinned-button .btn {
-      font-size: inherit;
+
+      .btn, 
+      .topic-notifications-button .btn, 
+      .pinned-button .btn {
+        font-size: inherit;
+      }
+      
     }
   }  
 }
