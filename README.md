@@ -27,15 +27,6 @@ Mobile:
 
 <img width="40%" height="40%" alt="mobile" src="https://github.com/user-attachments/assets/5f8c3ba3-3443-4fa2-aa09-3648a22832da" />
 
-
-French:
-
-<img width="40%" height="40%" alt="french" src="https://github.com/user-attachments/assets/4258b944-8e33-4e4c-a58e-24f6e312fbc7" />
-
-Russian:
-
-<img width="40%" height="40%" alt="russian" src="https://github.com/user-attachments/assets/590fef62-1c67-428a-95f6-6d50804e6d45" />
-
 Only Topic reply button string:
 
 <img width="40%" height="40%" alt="only topic reply button" src="https://github.com/user-attachments/assets/b2f86bab-8a4f-443b-be0f-1242ad39e112" />
